@@ -1,0 +1,6 @@
+OrderID,CustomerID,MarshmallowBouquet,Quantity,OrderDate
+101,1,Classic,3,2024-03-02
+102,2,Chocolate Delight,2,2024-03-06
+103,3,Fruity Fun,5,2024-03-08
+104,4,Rainbow Mix,1,2024-03-11
+105,5,Caramel Crunch,4,2024-03-16

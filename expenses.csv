@@ -1,0 +1,6 @@
+ExpenseID,Category,Amount,Date
+1,Office Supplies,150.75,2024-03-01
+2,Travel,450.0,2024-03-05
+3,Software,299.99,2024-03-07
+4,Meals,85.5,2024-03-10
+5,Utilities,120.0,2024-03-15
